@@ -1,2 +1,2 @@
 # game_Khamidulin_Denis_and_Krasavcev_Andrey
-Переходи дорогу
+Переходи дорогу NE
