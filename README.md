@@ -1,5 +1,4 @@
 # game_Khamidulin_Denis_and_Krasavcev_Andrey
-Ритм-поток
 
 # Ритм-игра
 
